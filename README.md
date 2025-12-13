@@ -5,11 +5,17 @@ A Blueprint extension witch tells your statistics over all servers. It tells you
 
 ## Installation
 Install https://blueprint.zip
+
 download file in releases "pstatistics.blueprint"
+
 drag the file in /var/www/pterodactyl
+
 ***Bash***`cd /var/www/pterodactyl`
+
 ***Bash***`blueprint -install pstatistics`
 
+
 If an error occurs open a ticket in our discord https://discord.gg/mQUXCEDB32
+
 
 Needs https://blueprint.zip
