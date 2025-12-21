@@ -24,4 +24,4 @@ drag the file in /var/www/pterodactyl
 If an error occurs open a ticket in our discord https://discord.gg/mQUXCEDB32
 
 
-Needs https://blueprint.zip
+Needs https://blueprint.zip !!!
